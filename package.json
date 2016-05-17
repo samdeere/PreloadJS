@@ -1,0 +1,18 @@
+{
+  "name": "preloadJs",
+  "version": "0.6.2",
+  "description": "",
+   "main": "./lib/preloadjs-0.6.2.combined.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Sam Deere",
+    "email": "sam.deere@stormid.com",
+    "url": "http://stormideas.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+
+  }
+}
