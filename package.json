@@ -11,8 +11,5 @@
     "email": "sam.deere@stormid.com",
     "url": "http://stormideas.com"
   },
-  "license": "MIT",
-  "dependencies": {
-    "contextify": ""
-  }
+  "license": "MIT"
 }
